@@ -1,0 +1,8 @@
+{
+    "name":"myTrial1",
+    "web":{
+        "rewrites":{
+            "enable":"true"
+        }
+    }
+}
